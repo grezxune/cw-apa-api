@@ -1,0 +1,610 @@
+Tue Jun 06 2017 18:31:11 GMT-0500 (CDT): GET - /
+Tue Jun 06 2017 18:31:15 GMT-0500 (CDT): GET - /todos
+Tue Jun 06 2017 22:17:24 GMT-0500 (CDT): GET - /todos/
+Tue Jun 06 2017 22:18:28 GMT-0500 (CDT): PATCH - /todos/5930516e83fc3a237f9708d6
+Tue Jun 06 2017 22:18:34 GMT-0500 (CDT): GET - /todos/
+Tue Jun 06 2017 22:19:09 GMT-0500 (CDT): PATCH - /todos/5930516e83fc3a237f9708d6
+Tue Jun 06 2017 22:19:19 GMT-0500 (CDT): PATCH - /todos/5930516e83fc3a237f9708d6
+Tue Jun 06 2017 22:30:08 GMT-0500 (CDT): POST - /todos
+Tue Jun 06 2017 22:30:08 GMT-0500 (CDT): POST - /todos
+Tue Jun 06 2017 22:30:08 GMT-0500 (CDT): GET - /todos
+Tue Jun 06 2017 22:30:08 GMT-0500 (CDT): GET - /todos/593773402964532e65996d38
+Tue Jun 06 2017 22:30:08 GMT-0500 (CDT): GET - /todos/593773402964532e65996d3c
+Tue Jun 06 2017 22:30:08 GMT-0500 (CDT): GET - /todos/123
+Tue Jun 06 2017 22:30:08 GMT-0500 (CDT): DELETE - /todos/593773402964532e65996d38
+Tue Jun 06 2017 22:30:08 GMT-0500 (CDT): PATCH - /todos/593773402964532e65996d39
+Tue Jun 06 2017 22:32:34 GMT-0500 (CDT): POST - /todos
+Tue Jun 06 2017 22:32:34 GMT-0500 (CDT): POST - /todos
+Tue Jun 06 2017 22:32:34 GMT-0500 (CDT): GET - /todos
+Tue Jun 06 2017 22:32:34 GMT-0500 (CDT): GET - /todos/593773d2404d2c2e7a33b3eb
+Tue Jun 06 2017 22:32:34 GMT-0500 (CDT): GET - /todos/593773d2404d2c2e7a33b3ef
+Tue Jun 06 2017 22:32:34 GMT-0500 (CDT): GET - /todos/123
+Tue Jun 06 2017 22:32:34 GMT-0500 (CDT): DELETE - /todos/593773d2404d2c2e7a33b3eb
+Tue Jun 06 2017 22:32:34 GMT-0500 (CDT): PATCH - /todos/593773d2404d2c2e7a33b3ec
+Thu Jun 08 2017 21:06:56 GMT-0500 (CDT): POST - /todos
+Thu Jun 08 2017 21:06:56 GMT-0500 (CDT): POST - /todos
+Thu Jun 08 2017 21:06:57 GMT-0500 (CDT): GET - /todos
+Thu Jun 08 2017 21:06:57 GMT-0500 (CDT): GET - /todos/593a02c00d9b93324b07eebc
+Thu Jun 08 2017 21:06:57 GMT-0500 (CDT): GET - /todos/593a02c10d9b93324b07eec2
+Thu Jun 08 2017 21:06:57 GMT-0500 (CDT): GET - /todos/123
+Thu Jun 08 2017 21:06:57 GMT-0500 (CDT): DELETE - /todos/593a02c00d9b93324b07eebc
+Thu Jun 08 2017 21:06:57 GMT-0500 (CDT): PATCH - /todos/593a02c00d9b93324b07eebd
+Thu Jun 08 2017 21:46:37 GMT-0500 (CDT): POST - /todos
+Thu Jun 08 2017 21:46:37 GMT-0500 (CDT): POST - /todos
+Thu Jun 08 2017 21:46:37 GMT-0500 (CDT): GET - /todos
+Thu Jun 08 2017 21:46:37 GMT-0500 (CDT): GET - /todos/593a0c0defaf1d32e600ffee
+Thu Jun 08 2017 21:46:37 GMT-0500 (CDT): GET - /todos/593a0c0defaf1d32e600fff4
+Thu Jun 08 2017 21:46:37 GMT-0500 (CDT): GET - /todos/123
+Thu Jun 08 2017 21:46:37 GMT-0500 (CDT): DELETE - /todos/593a0c0defaf1d32e600ffee
+Thu Jun 08 2017 21:46:37 GMT-0500 (CDT): PATCH - /todos/593a0c0defaf1d32e600ffef
+Thu Jun 08 2017 21:46:37 GMT-0500 (CDT): POST - /users
+Thu Jun 08 2017 21:48:03 GMT-0500 (CDT): POST - /todos
+Thu Jun 08 2017 21:48:03 GMT-0500 (CDT): POST - /todos
+Thu Jun 08 2017 21:48:03 GMT-0500 (CDT): GET - /todos
+Thu Jun 08 2017 21:48:03 GMT-0500 (CDT): GET - /todos/593a0c634f3bb332f2c02d1a
+Thu Jun 08 2017 21:48:03 GMT-0500 (CDT): GET - /todos/593a0c634f3bb332f2c02d20
+Thu Jun 08 2017 21:48:03 GMT-0500 (CDT): GET - /todos/123
+Thu Jun 08 2017 21:48:03 GMT-0500 (CDT): DELETE - /todos/593a0c634f3bb332f2c02d1a
+Thu Jun 08 2017 21:48:03 GMT-0500 (CDT): PATCH - /todos/593a0c634f3bb332f2c02d1b
+Thu Jun 08 2017 21:48:03 GMT-0500 (CDT): POST - /users
+Thu Jun 08 2017 21:48:25 GMT-0500 (CDT): POST - /todos
+Thu Jun 08 2017 21:48:25 GMT-0500 (CDT): POST - /todos
+Thu Jun 08 2017 21:48:25 GMT-0500 (CDT): GET - /todos
+Thu Jun 08 2017 21:48:25 GMT-0500 (CDT): GET - /todos/593a0c792e663532f93d7fcb
+Thu Jun 08 2017 21:48:25 GMT-0500 (CDT): GET - /todos/593a0c792e663532f93d7fd1
+Thu Jun 08 2017 21:48:25 GMT-0500 (CDT): GET - /todos/123
+Thu Jun 08 2017 21:48:25 GMT-0500 (CDT): DELETE - /todos/593a0c792e663532f93d7fcb
+Thu Jun 08 2017 21:48:25 GMT-0500 (CDT): PATCH - /todos/593a0c792e663532f93d7fcc
+Thu Jun 08 2017 21:48:25 GMT-0500 (CDT): POST - /users
+Tue Nov 07 2017 10:20:54 GMT-0600 (CST): GET - /
+Tue Nov 07 2017 10:21:01 GMT-0600 (CST): GET - /news
+Tue Nov 07 2017 10:21:01 GMT-0600 (CST): GET - /news
+Tue Nov 07 2017 10:22:26 GMT-0600 (CST): GET - /news
+Tue Nov 07 2017 10:22:26 GMT-0600 (CST): GET - /news
+Tue Nov 07 2017 10:23:02 GMT-0600 (CST): GET - /news
+Tue Nov 07 2017 10:23:02 GMT-0600 (CST): GET - /news
+Tue Nov 07 2017 10:25:55 GMT-0600 (CST): GET - /news
+Tue Nov 07 2017 10:25:55 GMT-0600 (CST): GET - /news
+Tue Nov 07 2017 10:26:13 GMT-0600 (CST): GET - /news
+Tue Nov 07 2017 10:26:13 GMT-0600 (CST): GET - /news
+Tue Nov 07 2017 10:26:40 GMT-0600 (CST): GET - /news
+Tue Nov 07 2017 10:26:40 GMT-0600 (CST): GET - /news
+Tue Nov 07 2017 10:27:01 GMT-0600 (CST): GET - /news.json
+Tue Nov 07 2017 10:27:01 GMT-0600 (CST): GET - /news.json
+Tue Nov 07 2017 10:28:37 GMT-0600 (CST): GET - /news.json
+Tue Nov 07 2017 10:28:37 GMT-0600 (CST): GET - /news.json
+Tue Nov 07 2017 10:28:54 GMT-0600 (CST): GET - /news.json
+Tue Nov 07 2017 10:28:54 GMT-0600 (CST): GET - /news.json
+Tue Nov 07 2017 11:29:56 GMT-0600 (CST): GET - /news.json
+Tue Nov 07 2017 11:29:56 GMT-0600 (CST): GET - /news.json
+Tue Nov 07 2017 11:30:50 GMT-0600 (CST): GET - /news.json
+Tue Nov 07 2017 11:30:50 GMT-0600 (CST): GET - /news.json
+Tue Nov 07 2017 11:30:57 GMT-0600 (CST): GET - /news
+Tue Nov 07 2017 11:30:57 GMT-0600 (CST): GET - /news
+Tue Nov 07 2017 11:31:04 GMT-0600 (CST): GET - /events
+Tue Nov 07 2017 11:31:04 GMT-0600 (CST): GET - /events
+Tue Nov 07 2017 11:49:38 GMT-0600 (CST): GET - /login/facebook
+Tue Nov 07 2017 11:49:44 GMT-0600 (CST): GET - /
+Tue Nov 07 2017 11:50:03 GMT-0600 (CST): GET - /login/facebook
+Tue Nov 07 2017 11:50:16 GMT-0600 (CST): GET - /auth/facebook/return?error_code=1349048&error_message=Can%27t+Load+URL%3A+The+domain+of+this+URL+isn%27t+included+in+the+app%27s+domains.+To+be+able+to+load+this+URL%2C+add+all+domains+and+subdomains+of+your+app+to+the+App+Domains+field+in+your+app+settings.
+Tue Nov 07 2017 11:52:28 GMT-0600 (CST): GET - /login/facebook
+Tue Nov 07 2017 11:56:43 GMT-0600 (CST): GET - /auth/facebook/return?error_code=1349048&error_message=Can%27t+Load+URL%3A+The+domain+of+this+URL+isn%27t+included+in+the+app%27s+domains.+To+be+able+to+load+this+URL%2C+add+all+domains+and+subdomains+of+your+app+to+the+App+Domains+field+in+your+app+settings.
+Tue Nov 07 2017 11:56:44 GMT-0600 (CST): GET - /favicon.ico
+Tue Nov 07 2017 11:56:49 GMT-0600 (CST): GET - /login/facebook
+Tue Nov 07 2017 11:57:00 GMT-0600 (CST): GET - /auth/facebook/return?error_code=1349048&error_message=Can%27t+Load+URL%3A+The+domain+of+this+URL+isn%27t+included+in+the+app%27s+domains.+To+be+able+to+load+this+URL%2C+add+all+domains+and+subdomains+of+your+app+to+the+App+Domains+field+in+your+app+settings.
+Tue Nov 07 2017 11:57:02 GMT-0600 (CST): GET - /
+Tue Nov 07 2017 11:57:06 GMT-0600 (CST): GET - /login/facebook
+Tue Nov 07 2017 11:59:41 GMT-0600 (CST): GET - /login/facebook
+Tue Nov 07 2017 12:29:57 GMT-0600 (CST): GET - /
+Tue Nov 07 2017 12:30:03 GMT-0600 (CST): GET - /news
+Tue Nov 07 2017 12:30:07 GMT-0600 (CST): GET - /events
+Tue Nov 07 2017 12:38:22 GMT-0600 (CST): GET - /login/facebook
+Tue Nov 07 2017 12:39:15 GMT-0600 (CST): GET - /events
+Tue Nov 07 2017 12:39:19 GMT-0600 (CST): GET - /login/facebook
+Tue Nov 07 2017 12:41:06 GMT-0600 (CST): GET - /events
+Tue Nov 07 2017 12:41:09 GMT-0600 (CST): GET - /login/facebook
+Tue Nov 07 2017 12:41:20 GMT-0600 (CST): GET - /events
+Tue Nov 07 2017 12:41:24 GMT-0600 (CST): GET - /login/facebook
+Tue Nov 07 2017 12:43:41 GMT-0600 (CST): GET - /auth/facebook/return?error_code=1349048&error_message=Can%27t+Load+URL%3A+The+domain+of+this+URL+isn%27t+included+in+the+app%27s+domains.+To+be+able+to+load+this+URL%2C+add+all+domains+and+subdomains+of+your+app+to+the+App+Domains+field+in+your+app+settings.
+Tue Nov 07 2017 12:45:02 GMT-0600 (CST): GET - /login/facebook
+Tue Nov 07 2017 12:45:16 GMT-0600 (CST): GET - /events
+Tue Nov 07 2017 12:45:16 GMT-0600 (CST): GET - /news
+Tue Nov 07 2017 12:45:17 GMT-0600 (CST): GET - /
+Tue Nov 07 2017 12:46:01 GMT-0600 (CST): GET - /
+Tue Nov 07 2017 15:41:26 GMT-0600 (CST): GET - /login/facebook
+Tue Nov 07 2017 15:41:32 GMT-0600 (CST): GET - /
+Tue Nov 07 2017 15:42:06 GMT-0600 (CST): GET - /
+Tue Nov 07 2017 15:42:08 GMT-0600 (CST): GET - /
+Tue Nov 07 2017 15:42:08 GMT-0600 (CST): GET - /
+Tue Nov 07 2017 15:42:09 GMT-0600 (CST): GET - /
+Tue Nov 07 2017 15:42:09 GMT-0600 (CST): GET - /
+Tue Nov 07 2017 15:42:10 GMT-0600 (CST): GET - /
+Tue Nov 07 2017 15:42:10 GMT-0600 (CST): GET - /
+Tue Nov 07 2017 15:42:10 GMT-0600 (CST): GET - /
+Tue Nov 07 2017 15:42:30 GMT-0600 (CST): GET - /
+Tue Nov 07 2017 15:42:31 GMT-0600 (CST): GET - /
+Tue Nov 07 2017 15:42:42 GMT-0600 (CST): GET - /
+Tue Nov 07 2017 15:42:57 GMT-0600 (CST): GET - /
+Tue Nov 07 2017 15:43:00 GMT-0600 (CST): GET - /login/facebook
+Tue Nov 07 2017 15:43:03 GMT-0600 (CST): GET - /login/facebook/return?error_code=1349048&error_message=Can%27t+Load+URL%3A+The+domain+of+this+URL+isn%27t+included+in+the+app%27s+domains.+To+be+able+to+load+this+URL%2C+add+all+domains+and+subdomains+of+your+app+to+the+App+Domains+field+in+your+app+settings.
+Tue Nov 07 2017 15:43:04 GMT-0600 (CST): GET - /
+Tue Nov 07 2017 15:43:06 GMT-0600 (CST): GET - /login/facebook
+Tue Nov 07 2017 15:43:09 GMT-0600 (CST): GET - /login/facebook/return?error_code=1349048&error_message=Can%27t+Load+URL%3A+The+domain+of+this+URL+isn%27t+included+in+the+app%27s+domains.+To+be+able+to+load+this+URL%2C+add+all+domains+and+subdomains+of+your+app+to+the+App+Domains+field+in+your+app+settings.
+Tue Nov 07 2017 15:47:15 GMT-0600 (CST): GET - /
+Tue Nov 07 2017 15:47:16 GMT-0600 (CST): GET - /login/facebook
+Tue Nov 07 2017 15:47:20 GMT-0600 (CST): GET - /
+Tue Nov 07 2017 15:47:24 GMT-0600 (CST): GET - /
+Tue Nov 07 2017 15:47:25 GMT-0600 (CST): GET - /login/facebook
+Wed Nov 08 2017 10:27:24 GMT-0600 (CST): GET - /
+Wed Nov 08 2017 10:31:41 GMT-0600 (CST): GET - /login/facebook
+Wed Nov 08 2017 10:31:45 GMT-0600 (CST): GET - /login/facebook/return?error_code=1349048&error_message=Can%27t+Load+URL%3A+The+domain+of+this+URL+isn%27t+included+in+the+app%27s+domains.+To+be+able+to+load+this+URL%2C+add+all+domains+and+subdomains+of+your+app+to+the+App+Domains+field+in+your+app+settings.
+Wed Nov 08 2017 10:32:33 GMT-0600 (CST): GET - /
+Wed Nov 08 2017 10:32:35 GMT-0600 (CST): GET - /login/facebook
+Wed Nov 08 2017 10:32:40 GMT-0600 (CST): GET - /
+Wed Nov 08 2017 10:32:46 GMT-0600 (CST): GET - /login/facebook
+Wed Nov 08 2017 10:32:48 GMT-0600 (CST): GET - /
+Wed Nov 08 2017 10:49:47 GMT-0600 (CST): GET - /
+Wed Nov 08 2017 10:51:40 GMT-0600 (CST): GET - /
+Wed Nov 08 2017 10:51:41 GMT-0600 (CST): GET - /login/facebook
+Wed Nov 08 2017 10:51:42 GMT-0600 (CST): GET - /
+Wed Nov 08 2017 10:51:43 GMT-0600 (CST): GET - /login/facebook
+Wed Nov 08 2017 10:51:43 GMT-0600 (CST): GET - /
+Wed Nov 08 2017 10:58:01 GMT-0600 (CST): GET - /news
+Wed Nov 08 2017 10:58:01 GMT-0600 (CST): GET - /news
+Wed Nov 08 2017 12:22:06 GMT-0600 (CST): GET - /events
+Wed Nov 08 2017 12:22:06 GMT-0600 (CST): GET - /events
+Wed Nov 08 2017 12:28:47 GMT-0600 (CST): GET - /news
+Wed Nov 08 2017 12:28:47 GMT-0600 (CST): GET - /news
+Wed Nov 08 2017 13:04:06 GMT-0600 (CST): GET - /news-item
+Wed Nov 08 2017 13:04:13 GMT-0600 (CST): GET - /news-items
+Wed Nov 08 2017 13:05:28 GMT-0600 (CST): GET - /news-items
+Wed Nov 08 2017 13:05:28 GMT-0600 (CST): GET - /news-items
+Wed Nov 08 2017 13:05:36 GMT-0600 (CST): GET - /
+Wed Nov 08 2017 13:05:36 GMT-0600 (CST): GET - /favicon.ico
+Wed Nov 08 2017 13:06:04 GMT-0600 (CST): GET - /
+Wed Nov 08 2017 13:06:04 GMT-0600 (CST): GET - /favicon.ico
+Wed Nov 08 2017 13:06:08 GMT-0600 (CST): GET - /news-items
+Wed Nov 08 2017 13:09:03 GMT-0600 (CST): POST - /news-item
+Wed Nov 08 2017 13:09:40 GMT-0600 (CST): POST - /news-item
+Wed Nov 08 2017 13:09:48 GMT-0600 (CST): POST - /news-item
+Wed Nov 08 2017 13:15:01 GMT-0600 (CST): POST - /news-item
+Wed Nov 08 2017 13:15:22 GMT-0600 (CST): GET - /news-items
+Wed Nov 08 2017 13:15:38 GMT-0600 (CST): GET - /news-items
+Wed Nov 08 2017 13:16:10 GMT-0600 (CST): GET - /news-items
+Wed Nov 08 2017 13:16:30 GMT-0600 (CST): POST - /news-item
+Wed Nov 08 2017 13:16:34 GMT-0600 (CST): GET - /news-items
+Wed Nov 08 2017 13:17:18 GMT-0600 (CST): GET - /news-item/5a0357b5b19001d74de5a11a
+Wed Nov 08 2017 13:17:47 GMT-0600 (CST): GET - /news-item/5a0357b5b19001d74de5a11a
+Wed Nov 08 2017 13:35:54 GMT-0600 (CST): GET - /news-item/5a0357b5b19001d74de5a11a
+Wed Nov 08 2017 13:35:58 GMT-0600 (CST): GET - /news-item/5a0357b5b19001d74de5a11a
+Wed Nov 08 2017 13:36:17 GMT-0600 (CST): GET - /news-item/5a0357b5b19001d74d
+Wed Nov 08 2017 13:36:18 GMT-0600 (CST): GET - /news-item/5a0357b5b19001d74d
+Wed Nov 08 2017 13:38:30 GMT-0600 (CST): GET - /news-item/5a0357b5b19001d74d
+Wed Nov 08 2017 13:38:37 GMT-0600 (CST): GET - /news-item/5a0357b5b19001d74de5a11a
+Wed Nov 08 2017 13:39:17 GMT-0600 (CST): GET - /news-item/5a0357b5b19001d74de5a11a
+Wed Nov 08 2017 13:39:22 GMT-0600 (CST): GET - /news-item/5a0357b5b19001d74de5a11
+Wed Nov 08 2017 13:39:25 GMT-0600 (CST): GET - /news-item/5a0357b5b19001d74de5a11a
+Wed Nov 08 2017 13:41:12 GMT-0600 (CST): PATCH - /news-item/5a0357b5b19001d74de5a11a
+Wed Nov 08 2017 13:43:08 GMT-0600 (CST): PATCH - /news-item/5a0357b5b19001d74de5a11a
+Wed Nov 08 2017 13:43:39 GMT-0600 (CST): PATCH - /news-item/5a0357b5b19001d74de5a11a
+Wed Nov 08 2017 13:43:44 GMT-0600 (CST): PATCH - /news-item/5a0357b5b19001d74de5a11a
+Wed Nov 08 2017 13:44:20 GMT-0600 (CST): PATCH - /news-item/5a0357b5b19001d74de5a1
+Wed Nov 08 2017 13:44:48 GMT-0600 (CST): PATCH - /news-item/5a0357b5b19001d74de5a1
+Wed Nov 08 2017 13:48:44 GMT-0600 (CST): GET - /event-items
+Wed Nov 08 2017 13:49:36 GMT-0600 (CST): GET - /event-items
+Wed Nov 08 2017 13:50:57 GMT-0600 (CST): GET - /event-items
+Wed Nov 08 2017 13:54:56 GMT-0600 (CST): POST - /event-item
+Wed Nov 08 2017 13:56:26 GMT-0600 (CST): POST - /event-item
+Wed Nov 08 2017 13:57:18 GMT-0600 (CST): POST - /event-item
+Wed Nov 08 2017 13:57:57 GMT-0600 (CST): GET - /event-item/5a03619e274ce5dab068970b
+Wed Nov 08 2017 13:58:34 GMT-0600 (CST): PATCH - /event-item/5a03619e274ce5dab068970b
+Wed Nov 08 2017 13:58:56 GMT-0600 (CST): PATCH - /event-item/5a03619e274ce5dab068970b
+Wed Nov 08 2017 13:59:39 GMT-0600 (CST): PATCH - /event-item/5a03619e274ce5dab068970b
+Wed Nov 08 2017 14:00:14 GMT-0600 (CST): DELETE - /event-item/5a03619e274ce5dab068970b
+Wed Nov 08 2017 14:00:14 GMT-0600 (CST): DELETE - /event-item/5a03619e274ce5dab068970b
+Wed Nov 08 2017 14:00:30 GMT-0600 (CST): POST - /event-item
+Wed Nov 08 2017 14:00:48 GMT-0600 (CST): PATCH - /event-item/5a03625eba98d1dad8c59c40
+Wed Nov 08 2017 14:01:35 GMT-0600 (CST): POST - /event-item
+Wed Nov 08 2017 14:01:40 GMT-0600 (CST): GET - /event-items
+Wed Nov 08 2017 14:03:10 GMT-0600 (CST): GET - /event-items
+Wed Nov 08 2017 14:03:23 GMT-0600 (CST): GET - /event-items
+Nov 8th 2017 02:07: GET - /
+Nov 8th 2017 02:16: GET - /event-item/5a03625eba98d1dad8c59c40
+Nov 8th 2017 02:17: PATCH - /event-item/5a03625eba98d1dad8c59c40
+Nov 8th 2017 02:17: PATCH - /event-item/5a03625eba98d1dad8c59c40
+Nov 8th 2017 02:17: PATCH - /event-item/5a03625eba98d1dad8c59c40
+Nov 8th 2017 02:17: PATCH - /event-item/5a03625eba98d1dad8c59c40
+Nov 8th 2017 02:18: PATCH - /event-item/5a03625eba98d1dad8c59c40
+Nov 8th 2017 02:18: PATCH - /event-item/5a03625eba98d1dad8c59c40
+Nov 8th 2017 02:18: PATCH - /event-item/5a03625eba98d1dad8c59c40
+Nov 8th 2017 02:18: PATCH - /event-item/5a03625eba98d1dad8c59c40
+Nov 8th 2017 02:19: POST - /event-item/
+Nov 8th 2017 02:19: POST - /event-item/
+Nov 8th 2017 02:19: POST - /event-item/
+Nov 8th 2017 02:19: POST - /event-item/
+Nov 8th 2017 02:20: POST - /event-item/
+Nov 8th 2017 04:10: GET - /players
+Nov 8th 2017 04:11: POST - /players
+Nov 8th 2017 04:11: POST - /player
+Nov 8th 2017 04:11: POST - /player
+Nov 8th 2017 04:12: POST - /player
+Nov 8th 2017 04:12: POST - /player
+Nov 8th 2017 04:12: POST - /player
+Nov 8th 2017 04:13: POST - /player
+Nov 8th 2017 04:13: POST - /player
+Nov 8th 2017 04:14: POST - /player
+Nov 8th 2017 04:15: POST - /player
+Nov 8th 2017 04:15: POST - /player
+Nov 8th 2017 04:15: POST - /player
+Nov 8th 2017 04:15: POST - /player
+Nov 8th 2017 04:16: POST - /player
+Nov 8th 2017 04:16: POST - /player
+Nov 8th 2017 04:17: POST - /player
+Nov 8th 2017 04:17: POST - /player
+Nov 8th 2017 04:17: POST - /player
+Nov 8th 2017 04:18: POST - /player
+Nov 8th 2017 04:21: POST - /player
+Nov 8th 2017 04:21: POST - /player
+Nov 8th 2017 04:21: POST - /player
+Nov 8th 2017 04:22: POST - /player
+Nov 8th 2017 04:23: POST - /player
+Nov 8th 2017 04:23: POST - /player
+Nov 8th 2017 04:23: POST - /player
+Nov 8th 2017 04:23: GET - /players
+Nov 8th 2017 04:23: GET - /player/5a0382c4bd20dee5d01487e4
+Nov 8th 2017 04:24: PATCH - /player/5a0382c4bd20dee5d01487e4
+Nov 8th 2017 04:24: PATCH - /player/5a0382c4bd20dee5d01487e4
+Nov 8th 2017 04:24: PATCH - /player/5a0382c4bd20dee5d01487e4
+Nov 8th 2017 04:51: GET - /teams
+Nov 8th 2017 04:53: GET - /teams
+Nov 8th 2017 04:53: POST - /team
+Nov 8th 2017 04:54: POST - /team
+Nov 8th 2017 04:54: POST - /team
+Nov 8th 2017 04:54: POST - /team
+Nov 8th 2017 04:54: POST - /team
+Nov 8th 2017 04:54: POST - /team
+Nov 8th 2017 04:55: POST - /team
+Nov 8th 2017 04:56: POST - /team
+Nov 8th 2017 04:57: POST - /team
+Nov 8th 2017 04:58: POST - /team
+Nov 8th 2017 05:10: POST - /team
+Nov 8th 2017 05:11: POST - /team
+Nov 8th 2017 05:11: POST - /team
+Nov 8th 2017 05:11: POST - /team
+Nov 8th 2017 05:11: POST - /team
+Nov 8th 2017 05:11: POST - /team
+Nov 8th 2017 05:12: POST - /team
+Nov 8th 2017 05:12: POST - /team
+Nov 8th 2017 05:16: POST - /team
+Nov 8th 2017 05:16: POST - /team
+Nov 8th 2017 05:16: POST - /team
+Nov 8th 2017 05:16: POST - /team
+Nov 8th 2017 05:16: POST - /team
+Nov 8th 2017 05:17: POST - /team
+Nov 8th 2017 05:17: POST - /team
+Nov 8th 2017 05:18: POST - /team
+Nov 8th 2017 05:18: POST - /team
+Nov 8th 2017 05:18: POST - /team
+Nov 8th 2017 05:18: POST - /team
+Nov 8th 2017 05:19: POST - /team
+Nov 8th 2017 05:19: POST - /team
+Nov 8th 2017 05:19: POST - /team
+Nov 8th 2017 05:19: POST - /team
+Nov 8th 2017 05:19: POST - /team
+Nov 8th 2017 05:19: POST - /team
+Nov 8th 2017 05:19: POST - /team
+Nov 8th 2017 05:19: POST - /team
+Nov 8th 2017 05:20: GET - /teams
+Nov 8th 2017 05:20: POST - /team
+Nov 8th 2017 05:20: GET - /teams
+Nov 8th 2017 05:20: GET - /team/5a039149eab1e4eae319e53a
+Nov 8th 2017 06:42: GET - /users
+Nov 8th 2017 06:43: GET - /users
+Nov 8th 2017 06:43: GET - /users/me
+Nov 8th 2017 06:45: POST - /users
+Nov 8th 2017 06:46: POST - /users
+Nov 8th 2017 06:47: GET - /users/me
+Nov 8th 2017 06:47: GET - /users/me
+Nov 8th 2017 06:47: GET - /users/me
+Nov 8th 2017 06:47: GET - /users/me
+Nov 8th 2017 06:48: GET - /users/me
+Nov 8th 2017 06:49: GET - /users/me
+Nov 8th 2017 06:49: GET - /users
+Nov 8th 2017 06:55: GET - /users/me
+Nov 8th 2017 06:55: GET - /users
+Nov 8th 2017 06:55: GET - /users/me
+Nov 8th 2017 07:06: POST - /users
+Nov 8th 2017 07:07: POST - /users
+Nov 8th 2017 07:11: POST - /users
+Nov 8th 2017 07:11: POST - /users
+Nov 8th 2017 07:13: POST - /users
+Nov 8th 2017 07:13: POST - /users
+Nov 8th 2017 07:14: POST - /users
+Nov 8th 2017 07:14: POST - /users
+Nov 8th 2017 07:15: POST - /users/me
+Nov 8th 2017 07:15: GET - /users/me
+Nov 8th 2017 07:16: POST - /users
+Nov 8th 2017 07:16: POST - /users
+Nov 8th 2017 07:17: POST - /users
+Nov 8th 2017 07:18: POST - /users
+Nov 8th 2017 07:18: GET - /users
+Nov 8th 2017 07:18: POST - /users
+Nov 8th 2017 07:19: POST - /users
+Nov 8th 2017 07:19: GET - /users/me
+Nov 8th 2017 07:20: GET - /users/me
+Nov 8th 2017 07:21: GET - /users/me
+Nov 8th 2017 07:22: POST - /users
+Nov 8th 2017 07:22: POST - /users
+Nov 8th 2017 07:29: POST - /login
+Nov 8th 2017 07:29: POST - /login
+Nov 8th 2017 07:30: POST - /login
+Nov 8th 2017 07:30: POST - /login
+Nov 8th 2017 07:31: POST - /login
+Nov 8th 2017 07:31: POST - /login
+Nov 8th 2017 07:32: POST - /login
+Nov 8th 2017 07:33: POST - /login
+Nov 8th 2017 07:34: POST - /login
+Nov 8th 2017 07:35: POST - /login
+Nov 8th 2017 07:35: POST - /login
+Nov 8th 2017 07:36: POST - /login
+Nov 8th 2017 07:40: POST - /login
+Nov 8th 2017 07:40: POST - /login
+Nov 8th 2017 07:41: POST - /login
+Nov 8th 2017 07:43: POST - /login
+Nov 8th 2017 07:44: POST - /users
+Nov 8th 2017 07:48: POST - /users
+Nov 8th 2017 07:52: POST - /users
+Nov 8th 2017 07:53: POST - /users
+Nov 8th 2017 07:53: POST - /users
+Nov 8th 2017 07:59: POST - /users
+Nov 8th 2017 08:09: POST - /users
+Nov 8th 2017 08:10: POST - /users
+Nov 8th 2017 08:11: POST - /users
+Nov 8th 2017 08:11: POST - /login
+Nov 8th 2017 08:11: POST - /login
+Nov 8th 2017 08:12: POST - /users/me
+Nov 8th 2017 08:12: GET - /users/me
+Nov 8th 2017 08:12: POST - /login
+Nov 8th 2017 08:12: POST - /login
+Nov 8th 2017 08:12: POST - /login
+Nov 8th 2017 08:12: POST - /login
+Nov 8th 2017 08:18: POST - /login
+Nov 8th 2017 08:18: POST - /login
+Nov 8th 2017 08:20: POST - /login
+Nov 8th 2017 08:20: POST - /users
+Nov 8th 2017 08:21: POST - /users/me
+Nov 8th 2017 08:21: POST - /login
+Nov 8th 2017 08:21: POST - /logout
+Nov 8th 2017 08:21: POST - /logout
+Nov 8th 2017 08:23: POST - /logout
+Nov 8th 2017 08:25: GET - /login
+Nov 8th 2017 08:25: GET - /login
+Nov 8th 2017 08:25: GET - /login?email=tomtrezb2003%40gmail.com&password=IlikePool
+Nov 8th 2017 08:26: GET - /logout
+Nov 8th 2017 08:26: GET - /login?email=tomtrezb2003%40gmail.com&password=IlikePool
+Nov 8th 2017 08:26: GET - /login?email=tomtrezb2003%40gmail.com&password=IlikePool
+Nov 8th 2017 08:27: GET - /login
+Nov 8th 2017 08:27: GET - /login?email=tomtrezb2003%40gmail.com&password=IlikePool
+Nov 8th 2017 08:27: GET - /login?email=&password=
+Nov 8th 2017 08:27: GET - /logout
+Nov 8th 2017 08:27: GET - /logout?
+Nov 8th 2017 08:27: GET - /logout?
+Nov 8th 2017 08:27: GET - /logout?
+Nov 8th 2017 08:27: GET - /logout?
+Nov 8th 2017 08:27: GET - /login
+Nov 8th 2017 08:28: GET - /login?email=tomtrezb2003%40gmail.com&password=
+Nov 8th 2017 08:28: GET - /login?email=&password=
+Nov 8th 2017 08:28: GET - /login?email=&password=
+Nov 8th 2017 08:29: GET - /login?email=&password=
+Nov 8th 2017 08:29: POST - /login
+Nov 8th 2017 08:29: GET - /login?email=&password=
+Nov 8th 2017 08:29: POST - /login
+Nov 8th 2017 08:29: GET - /login?email=&password=
+Nov 8th 2017 08:29: POST - /login
+Nov 8th 2017 08:30: GET - /login?email=&password=
+Nov 8th 2017 08:30: POST - /login
+Nov 8th 2017 08:31: GET - /login?email=&password=
+Nov 8th 2017 08:31: POST - /login
+Nov 8th 2017 08:32: GET - /logout
+Nov 8th 2017 08:32: POST - /logout
+Nov 8th 2017 08:32: GET - /login
+Nov 8th 2017 08:32: POST - /login
+Nov 8th 2017 08:33: POST - /login
+Nov 8th 2017 08:41: GET - /login
+Nov 8th 2017 08:41: POST - /login
+Nov 8th 2017 08:41: GET - /login
+Nov 8th 2017 08:41: POST - /login
+Nov 8th 2017 08:41: GET - /logout
+Nov 8th 2017 08:41: POST - /logout
+Nov 8th 2017 08:46: GET - /logout
+Nov 8th 2017 08:47: GET - /login
+Nov 8th 2017 08:47: POST - /login
+Nov 8th 2017 08:47: GET - /logout
+Nov 8th 2017 08:47: POST - /logout
+Nov 8th 2017 08:47: GET - /logout
+Nov 8th 2017 08:47: GET - /login
+Nov 8th 2017 08:48: POST - /login
+Nov 8th 2017 08:48: GET - /logout
+Nov 8th 2017 08:49: POST - /logout
+Nov 8th 2017 08:49: GET - /logout
+Nov 8th 2017 08:49: GET - /login
+Nov 8th 2017 08:49: POST - /login
+Nov 8th 2017 08:50: GET - /logout
+Nov 8th 2017 08:50: POST - /logout
+Nov 9th 2017 09:47: GET - /login
+Nov 9th 2017 09:47: POST - /login
+Nov 9th 2017 09:47: GET - /logout
+Nov 9th 2017 09:47: POST - /logout
+Nov 9th 2017 09:49: GET - /logout
+Nov 9th 2017 09:49: GET - /login
+Nov 9th 2017 09:50: POST - /login
+Nov 9th 2017 09:50: GET - /logout
+Nov 9th 2017 09:50: POST - /logout
+Nov 9th 2017 09:54: GET - /logout
+Nov 9th 2017 09:54: GET - /logout
+Nov 9th 2017 09:54: POST - /login
+Nov 9th 2017 09:54: GET - /login
+Nov 9th 2017 09:54: POST - /login
+Nov 9th 2017 09:55: GET - /logout
+Nov 9th 2017 09:55: POST - /logout
+Nov 9th 2017 09:58: GET - /login
+Nov 9th 2017 09:58: POST - /login
+Nov 9th 2017 09:58: GET - /logout
+Nov 9th 2017 09:58: POST - /logout
+Nov 9th 2017 10:08: POST - /logout
+Nov 9th 2017 10:11: GET - /users
+Nov 9th 2017 10:12: GET - /users
+Nov 9th 2017 10:12: GET - /users
+Nov 9th 2017 10:12: GET - /login
+Nov 9th 2017 10:12: POST - /login
+Nov 9th 2017 10:12: GET - /users
+Nov 9th 2017 10:12: GET - /logout
+Nov 9th 2017 10:12: POST - /logout
+Nov 9th 2017 10:15: GET - /logout
+Nov 9th 2017 10:15: GET - /users
+Nov 9th 2017 10:15: POST - /login
+Nov 9th 2017 10:15: GET - /logout
+Nov 9th 2017 10:15: POST - /logout
+Nov 9th 2017 10:16: POST - /logout
+Nov 9th 2017 10:16: GET - /logout
+Nov 9th 2017 10:18: POST - /login
+Nov 9th 2017 10:18: GET - /logout
+Nov 9th 2017 10:19: POST - /logout
+Nov 9th 2017 10:20: GET - /logout
+Nov 9th 2017 10:20: POST - /login
+Nov 9th 2017 10:20: GET - /logout
+Nov 9th 2017 10:20: POST - /logout
+Nov 9th 2017 10:21: GET - /logout
+Nov 9th 2017 10:21: POST - /login
+Nov 9th 2017 10:21: GET - /logout
+Nov 9th 2017 10:21: POST - /logout
+Nov 9th 2017 10:22: GET - /logout
+Nov 9th 2017 10:22: POST - /login
+Nov 9th 2017 10:22: GET - /logout
+Nov 9th 2017 10:22: POST - /logout
+Nov 9th 2017 10:23: GET - /logout
+Nov 9th 2017 10:23: POST - /login
+Nov 9th 2017 10:23: GET - /logout
+Nov 9th 2017 10:23: POST - /logout
+Nov 9th 2017 10:28: GET - /logout
+Nov 9th 2017 10:28: POST - /login
+Nov 9th 2017 10:28: GET - /logout
+Nov 9th 2017 10:28: POST - /logout
+Nov 9th 2017 10:29: GET - /logout
+Nov 9th 2017 10:29: POST - /login
+Nov 9th 2017 10:29: GET - /logout
+Nov 9th 2017 10:29: POST - /logout
+Nov 9th 2017 10:30: GET - /logout
+Nov 9th 2017 10:30: POST - /login
+Nov 9th 2017 10:30: GET - /logout
+Nov 9th 2017 10:30: POST - /logout
+Nov 9th 2017 10:31: GET - /logout
+Nov 9th 2017 10:31: POST - /login
+Nov 9th 2017 10:31: GET - /logout
+Nov 9th 2017 10:31: POST - /logout
+Nov 9th 2017 10:31: GET - /logout
+Nov 9th 2017 10:31: POST - /login
+Nov 9th 2017 10:31: GET - /logout
+Nov 9th 2017 10:31: POST - /logout
+Nov 9th 2017 10:32: GET - /logout
+Nov 9th 2017 10:32: GET - /login
+Nov 9th 2017 10:32: POST - /login
+Nov 9th 2017 10:32: GET - /logout
+Nov 9th 2017 10:32: POST - /logout
+Nov 9th 2017 10:33: GET - /logout
+Nov 9th 2017 10:33: POST - /login
+Nov 9th 2017 10:33: GET - /logout
+Nov 9th 2017 10:33: POST - /logout
+Nov 9th 2017 10:34: GET - /logout
+Nov 9th 2017 10:34: POST - /login
+Nov 9th 2017 10:34: GET - /logout
+Nov 9th 2017 10:34: POST - /logout
+Nov 9th 2017 10:34: GET - /logout
+Nov 9th 2017 10:34: POST - /login
+Nov 9th 2017 10:34: GET - /logout
+Nov 9th 2017 10:34: POST - /logout
+Nov 9th 2017 10:35: GET - /logout
+Nov 9th 2017 10:35: POST - /login
+Nov 9th 2017 10:35: GET - /logout
+Nov 9th 2017 10:35: POST - /logout
+Nov 9th 2017 10:35: GET - /logout
+Nov 9th 2017 10:35: POST - /login
+Nov 9th 2017 10:35: GET - /logout
+Nov 9th 2017 10:35: POST - /logout
+Nov 9th 2017 10:35: POST - /logout
+Nov 9th 2017 10:57: GET - /logout
+Nov 9th 2017 10:57: POST - /login
+Nov 9th 2017 10:57: GET - /logout
+Nov 9th 2017 10:57: GET - /logout
+Nov 9th 2017 10:57: POST - /logout
+Nov 9th 2017 10:57: GET - /logout
+Nov 9th 2017 10:57: POST - /login
+Nov 9th 2017 10:57: GET - /login
+Nov 9th 2017 10:57: GET - /login
+Nov 9th 2017 10:57: GET - /login
+Nov 9th 2017 10:57: GET - /logout
+Nov 9th 2017 10:57: POST - /logout
+Nov 9th 2017 10:57: POST - /logout
+Nov 9th 2017 10:57: GET - /login
+Nov 9th 2017 10:57: POST - /login
+Nov 9th 2017 10:57: GET - /login
+Nov 9th 2017 10:58: POST - /login
+Nov 9th 2017 11:03: POST - /users
+Nov 9th 2017 11:03: POST - /logout
+Nov 9th 2017 11:03: GET - /login
+Nov 9th 2017 11:04: GET - /login
+Nov 9th 2017 11:04: GET - /logout
+Nov 9th 2017 11:04: GET - /login
+Nov 9th 2017 11:04: GET - /login
+Nov 9th 2017 11:04: GET - /login
+Nov 9th 2017 11:04: GET - /login
+Nov 9th 2017 11:04: POST - /login
+Nov 9th 2017 11:04: POST - /login
+Nov 9th 2017 11:04: GET - /login
+Nov 9th 2017 11:04: POST - /login
+Nov 9th 2017 11:05: GET - /login
+Nov 9th 2017 11:05: POST - /login
+Nov 9th 2017 11:05: GET - /login
+Nov 9th 2017 11:05: POST - /login
+Nov 9th 2017 11:05: GET - /login
+Nov 9th 2017 11:05: POST - /login
+Nov 9th 2017 11:05: GET - /logout
+Nov 9th 2017 11:05: POST - /logout
+Nov 9th 2017 11:09: POST - /login
+Nov 9th 2017 11:10: POST - /logout
+Nov 9th 2017 11:10: POST - /logout
+Nov 9th 2017 11:10: POST - /login
+Nov 9th 2017 11:10: POST - /login
+Nov 9th 2017 11:10: POST - /logout
+Nov 9th 2017 11:10: POST - /logout
+Nov 9th 2017 11:24: GET - /teams
+Nov 9th 2017 11:24: GET - /login
+Nov 9th 2017 11:24: POST - /login
+Nov 9th 2017 11:24: GET - /teams
+Nov 9th 2017 11:24: GET - /news-items
+Nov 9th 2017 11:25: GET - /event-items
+Nov 9th 2017 11:25: GET - /logout
+Nov 9th 2017 11:25: POST - /logout
+Nov 9th 2017 11:25: GET - /logout
+Nov 9th 2017 11:25: GET - /event-items
+Nov 9th 2017 11:25: GET - /event-items
+Nov 9th 2017 11:25: GET - /news-items
+Nov 9th 2017 11:25: GET - /teams
+Nov 9th 2017 11:25: GET - /players
+Nov 9th 2017 11:25: GET - /players
+Nov 9th 2017 03:24: GET - /players
+Nov 9th 2017 03:25: GET - /players
+Nov 9th 2017 03:27: GET - /players
+Nov 9th 2017 03:27: GET - /players
+Nov 9th 2017 03:28: GET - /players
+Nov 9th 2017 03:29: GET - /players
+Nov 9th 2017 03:29: GET - /players
+Nov 9th 2017 03:32: GET - /players
+Nov 9th 2017 03:33: GET - /players
+Nov 9th 2017 03:33: GET - /players
+Nov 9th 2017 03:33: GET - /players
+Nov 9th 2017 03:33: GET - /players
+Nov 9th 2017 03:33: GET - /players
+Nov 9th 2017 03:33: GET - /players
+Nov 9th 2017 03:33: GET - /players
+Nov 9th 2017 03:33: GET - /players
