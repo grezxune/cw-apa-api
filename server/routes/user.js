@@ -6,7 +6,7 @@ const {notAuthenticated} = require('../middleware/not-authenticated');
 const {User} = require('../models/user');
 
 // REMOVE AUTHENTICATE TO ADD INITIAL USER(S)
-app.post('/users', authenticate, async (req, res) => {
+app.post('/users', async (req, res) => {
     const body = _.pick(req.body, ['email', 'password']);
     const newUser = new User(body);
 
