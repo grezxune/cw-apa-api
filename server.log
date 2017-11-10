@@ -635,3 +635,57 @@ Nov 9th 2017 04:14: GET - /news
 Nov 9th 2017 04:14: GET - /news
 Nov 9th 2017 04:14: GET - /news
 Nov 9th 2017 04:14: GET - /news
+Nov 10th 2017 05:45: GET - /login
+******** HEADERS ********
+[object Object]
+Nov 10th 2017 05:45: GET - /favicon.ico
+******** HEADERS ********
+[object Object]
+Nov 10th 2017 05:45: POST - /login
+******** HEADERS ********
+[object Object]
+Nov 10th 2017 05:45: GET - /logout
+******** HEADERS ********
+[object Object]
+Nov 10th 2017 05:45: POST - /logout
+******** HEADERS ********
+[object Object]
+Nov 10th 2017 05:46: GET - /login
+******** HEADERS ********
+undefined
+Nov 10th 2017 05:46: POST - /login
+******** HEADERS ********
+undefined
+Nov 10th 2017 05:46: GET - /logout
+******** HEADERS ********
+undefined
+Nov 10th 2017 05:46: POST - /logout
+******** HEADERS ********
+undefined
+Nov 10th 2017 05:46: GET - /login
+******** HEADERS ********
+[object Object]
+Nov 10th 2017 05:46: POST - /login
+******** HEADERS ********
+[object Object]
+Nov 10th 2017 05:47: GET - /logout
+******** HEADERS ********
+[object Object]
+Nov 10th 2017 05:47: POST - /logout
+******** HEADERS ********
+[object Object]
+Nov 10th 2017 05:47: GET - /login
+******** Auth Cookie ********
+undefined
+Nov 10th 2017 05:47: POST - /login
+******** Auth Cookie ********
+undefined
+Nov 10th 2017 05:47: GET - /logout
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTA0OGE1YzU2MzM0ZTAwNzYxYmNiNWUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEwMzU3NjYzfQ.Rp-UriLvViZWMoeoebw7WDZN33kInfFiBPuyx6FdDW8
+Nov 10th 2017 05:47: POST - /logout
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTA0OGE1YzU2MzM0ZTAwNzYxYmNiNWUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEwMzU3NjYzfQ.Rp-UriLvViZWMoeoebw7WDZN33kInfFiBPuyx6FdDW8
+Nov 10th 2017 05:48: GET - /logout
+******** Auth Cookie ********
+undefined

@@ -18,9 +18,14 @@ const { allowCrossOrigin } = require('./middleware/cross-origin');
 
 
 /// *** Middlewares *** ///
+app.use(allowCrossOrigin);
+
+app.use(cookieParser());
+
 app.use((req, res, next) => {
-    var now = new moment().format('MMM Do YYYY hh:mm');
-    var log = `${now}: ${req.method} - ${req.url}`;
+    const now = new moment().format('MMM Do YYYY hh:mm');
+    const authCookie = req.cookies['auth'];
+    const log = `${now}: ${req.method} - ${req.url}\n******** Auth Cookie ********\n${authCookie}`;
 
     // console.log(log);
     fs.appendFile('server.log', `${log}\n`, (err) => {
@@ -30,10 +35,6 @@ app.use((req, res, next) => {
     });
     next();
 });
-
-app.use(allowCrossOrigin);
-
-app.use(cookieParser());
 
 // Parse form data into body
 app.use(bodyParser.urlencoded({
