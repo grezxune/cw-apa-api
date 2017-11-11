@@ -689,3 +689,6 @@ eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTA0OGE1YzU2MzM0ZTAwNzYxYmNiNWU
 Nov 10th 2017 05:48: GET - /logout
 ******** Auth Cookie ********
 undefined
+Nov 10th 2017 05:53: GET - /users/me
+******** Auth Cookie ********
+undefined
