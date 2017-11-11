@@ -48,7 +48,7 @@ app.post('/login', notAuthenticated, async (req, res) => {
     const loggedInUser = await User.loginUser(body.email, body.password);
 
     if (loggedInUser) {
-        res.cookie('auth', loggedInUser.token, { httpOnly: true, withCredentials: true }).send({ user: loggedInUser.user });
+        res.cookie('auth', loggedInUser.token, { httpOnly: true }).send({ user: loggedInUser.user });
     } else {
         res.status(403).send('Invalid email or password');
     }
