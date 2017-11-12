@@ -30,6 +30,8 @@ app.post('/player', (req, res) => {
     player.save().then((doc) => {
         res.send(doc);
     }, (err) => {
+        console.log('Error saving player:\n', req.body);
+        console.log('Error:\n', err);
         res.status(400).send(err);
     });
 });
