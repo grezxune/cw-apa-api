@@ -118,7 +118,7 @@ const playerSchema = new mongoose.Schema(
             type: String,
             required: false,
             trim: true,
-            enum: ["M", "F"]
+            enum: ["Male", "Female"]
         },
         legalStatus: {
             type: String,
