@@ -82,7 +82,7 @@ const playerSchema = new mongoose.Schema(
             work: {
                 isPrimary: false,
                 ext: {
-                    type: Number,
+                    type: String,
                     required: false,
                     trim: true,
                 },
