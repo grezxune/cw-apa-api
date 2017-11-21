@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 const moment = require('moment');
 const { stateAbbreviations } = require('../config/states');
-const { phoneValidator, emailValidator } = require('./schema-validators');
+const { phoneValidator, emailValidator, requireOnePhone, requireOnePrimaryPhone } = require('./schema-validators');
 
 const playerSchema = new mongoose.Schema(
     {
@@ -61,6 +61,10 @@ const playerSchema = new mongoose.Schema(
             required: true,
         },
         phones: {
+            required: [
+                () => {requireOnePhone() && requireOnePrimaryPhone()},
+                'At least one primary phone is required'
+            ],
             home: {
                 isPrimary: false,
                 number: {
