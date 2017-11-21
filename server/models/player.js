@@ -61,10 +61,6 @@ const playerSchema = new mongoose.Schema(
             required: true,
         },
         phones: {
-            required: [
-                () => {requireOnePhone() && requireOnePrimaryPhone()},
-                'At least one primary phone is required'
-            ],
             home: {
                 isPrimary: false,
                 number: {

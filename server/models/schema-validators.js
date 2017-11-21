@@ -15,6 +15,7 @@ const emailValidator = {
 };
 
 const requireOnePhone = () => {
+    console.log('In require one phone');
     const phones = [];
 
     if (this.phones.cell.number) {
@@ -33,6 +34,7 @@ const requireOnePhone = () => {
 };
 
 const requireOnePrimaryPhone = () => {
+    console.log('In require one primary phone');
     const primaryPhones = [];
 
     if (this.phones.cell.isPrimary && this.phones.cell.number) {
@@ -52,5 +54,7 @@ const requireOnePrimaryPhone = () => {
 
 module.exports = {
     phoneValidator,
-    emailValidator
+    emailValidator,
+    requireOnePhone,
+    requireOnePrimaryPhone
 };
