@@ -12,28 +12,26 @@ app.get('/players', authenticate, (req, res) => {
     });
 });
 
-app.post('/player', (req, res) => {
-    console.log(req.body);
+app.post('/player', async (req, res) => {
     var player = new Player({
         name: req.body.name,
+        contact: req.body.contact,
         address: req.body.address,
-        birthdate: req.body.birthdate,
-        phones: req.body.phones,
-        email: req.body.email,
-        employment: req.body.employment,
-        gender: req.body.gender,
-        legalStatus: req.body.legalStatus,
+        personal: req.body.personal,
         previousPlay: req.body.previousPlay,
         friendInterested: req.body.friendInterested
     });
 
-    player.save().then((doc) => {
-        res.send(doc);
-    }, (err) => {
-        console.log('Error saving player:\n', req.body);
-        console.log('Error:\n', err);
-        res.status(400).send(err);
-    });
+    console.log('player\n', player);
+
+    try {
+        const newDoc = await player.save();
+        res.send(newDoc);
+    } catch (err) {
+        console.log('ERROR! ', err);
+        console.log(err.message);
+        res.status(400).send(err.message);
+    }
 });
 
 app.get('/player/:id', authenticate, requireValidID, (req, res) => {
@@ -48,17 +46,21 @@ app.get('/player/:id', authenticate, requireValidID, (req, res) => {
         .catch((e) => res.status(400).send());
 });
 
-app.patch('/player/:id', authenticate, requireValidID, (req, res) => {
-    var body = _.pick(req.body, ['name', 'address', 'birthdate', 'phones', 'email', 'employment', 'gender', 'legalStatus', 'previousPlay', 'friendInterested']);
+app.patch('/player/:id', authenticate, requireValidID, async (req, res) => {
+    var body = _.pick(req.body, ['name', 'contact', 'address', 'personal', 'previousPlay', 'friendInterested']);
 
-    Player.findByIdAndUpdate(req.params.id, {$set: body}, {new: true}).then((player) => {
-        if (!player) {
+    try {
+        // updatedDoc is the new MODIFIED item. This is because the option new: true is set
+        const updatedDoc = await Player.findByIdAndUpdate(req.params.id, {$set: body}, {new: true});
+
+        if (!updatedDoc) {
             res.status(404).send();
         } else {
-            // player is the new MODIFIED item. This is because the option new: true is set
-            res.send({ player });
+            res.send({ player: updatedDoc });
         }
-    }).catch((err) => { res.status(400).send(err) });
+    } catch (err) {
+        res.status(400).send(err.message);
+    }
 });
 
 app.delete('/player/:id', authenticate, requireValidID, (req, res) => {

@@ -4,8 +4,10 @@ const notAuthenticated = (req, res, next) => {
     const token = req.cookies['auth'];
 
     if (token) {
-        res.status(400).send();
+        console.log('You\'re already authenticated!');
+        res.status(400).send('You\'re already authenticated');
     } else {
+        console.log('nexting...');
         next();
     }
 };

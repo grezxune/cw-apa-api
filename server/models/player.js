@@ -29,6 +29,50 @@ const playerSchema = new mongoose.Schema(
                 trim: true
             }
         },
+        contact: {
+            email: {
+                type: String,
+                required: true,
+                unique: true,
+                isAsync: true,
+                trim: true,
+                validate: emailValidator
+            },
+            phones: {
+                home: {
+                    isPrimary: false,
+                    number: {
+                        type: String,
+                        required: false,
+                        trim: true,
+                        validate: phoneValidator
+                    }
+                },
+                cell: {
+                    isPrimary: false,
+                    number: {
+                        type: String,
+                        required: false,
+                        trim: true,
+                        validate: phoneValidator
+                    }
+                },
+                work: {
+                    isPrimary: false,
+                    ext: {
+                        type: String,
+                        required: false,
+                        trim: true,
+                    },
+                    number: {
+                        type: String,
+                        required: false,
+                        trim: true,
+                        validate: phoneValidator
+                    }
+                }
+            }
+        },
         address: {
             street: {
                 type: String,
@@ -56,75 +100,35 @@ const playerSchema = new mongoose.Schema(
                 trim: true
             }
         },
-        birthdate: {
-            type: Number,
-            required: true,
-        },
-        phones: {
-            home: {
-                isPrimary: false,
-                number: {
-                    type: String,
-                    required: false,
-                    trim: true,
-                    validate: phoneValidator
-                }
+        personal: {
+            birthdate: {
+                type: Number,
+                required: true,
             },
-            cell: {
-                isPrimary: false,
-                number: {
-                    type: String,
-                    required: false,
-                    trim: true,
-                    validate: phoneValidator
-                }
+            gender: {
+                type: String,
+                required: false,
+                trim: true,
+                enum: ['Male', 'Female']
             },
-            work: {
-                isPrimary: false,
-                ext: {
+            legalStatus: {
+                type: String,
+                required: false,
+                trim: true,
+                enum: ['Married', 'Single', 'Divorced', 'Widowed']
+            },
+            employment: {
+                place: {
                     type: String,
                     required: false,
-                    trim: true,
+                    trim: true
                 },
-                number: {
+                occupation: {
                     type: String,
                     required: false,
-                    trim: true,
-                    validate: phoneValidator
+                    trim: true
                 }
             }
-        },
-        email: {
-            type: String,
-            required: true,
-            unique: true,
-            isAsync: true,
-            trim: true,
-            validate: emailValidator
-        },
-        employment: {
-            place: {
-                type: String,
-                required: false,
-                trim: true
-            },
-            occupation: {
-                type: String,
-                required: false,
-                trim: true
-            }
-        },
-        gender: {
-            type: String,
-            required: false,
-            trim: true,
-            enum: ["Male", "Female"]
-        },
-        legalStatus: {
-            type: String,
-            required: false,
-            trim: true,
-            enum: ["Married", "Single", "Divorced", "Widowed"]
         },
         previousPlay: {
             havePlayedBefore: {
@@ -142,10 +146,10 @@ const playerSchema = new mongoose.Schema(
                 trim: true
             },
             lastSkillLevel: {
-                type: Number,
+                type: String,
                 required: false,
-                minValue: 1,
-                maxValue: 9
+                trim: true,
+                enum: ['2', '3', '4', '5', '6', '7', 'IDR']
             }
         },
         friendInterested: {
@@ -176,8 +180,32 @@ const playerSchema = new mongoose.Schema(
     }
 );
 
+playerSchema.pre('validate', function(next) {
+    let errorMessages = '';
+
+    if ((!this.contact.phones.cell.number || !this.contact.phones.cell.isPrimary) &&
+        (!this.contact.phones.home.number || !this.contact.phones.home.isPrimary) &&
+        (!this.contact.phones.work.number || !this.contact.phones.work.isPrimary)) {
+        errorMessages += 'One primary phone is required\n';
+    }
+
+    if (moment().diff(moment(this.personal.birthdate), 'years') < 12) {
+        errorMessages += 'You must be at least 12 years old to sign up for the APA\n';
+    }
+
+    if (errorMessages.trim().length > 0) {
+        next(new Error(errorMessages));
+    } else {
+        next();
+    }
+});
+
+playerSchema.pre('save', (next) => {
+    next();
+});
+
 const Player = mongoose.model('Player', playerSchema);
 
 module.exports = {
-  Player
+    Player
 };
