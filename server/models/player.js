@@ -180,20 +180,26 @@ const playerSchema = new mongoose.Schema(
     }
 );
 
-playerSchema.pre('validate', function(next) {
-    let errorMessages = '';
+playerSchema.pre('validate', async function(next) {
+    let errorMessages = [];
 
     if ((!this.contact.phones.cell.number || !this.contact.phones.cell.isPrimary) &&
         (!this.contact.phones.home.number || !this.contact.phones.home.isPrimary) &&
         (!this.contact.phones.work.number || !this.contact.phones.work.isPrimary)) {
-        errorMessages += 'One primary phone is required\n';
+        errorMessages.push('One primary phone is required');
     }
 
     if (moment().diff(moment(this.personal.birthdate), 'years') < 12) {
-        errorMessages += 'You must be at least 12 years old to sign up for the APA\n';
+        errorMessages.push('You must be at least 12 years of age to sign up for the APA.');
     }
 
-    if (errorMessages.trim().length > 0) {
+    const duplicates = await Player.where('contact.email', this.contact.email).count();
+
+    if (duplicates > 0) {
+        errorMessages.push(`A player with the email ${this.contact.email} already exists.`);
+    }
+
+    if (errorMessages.length > 0) {
         next(new Error(errorMessages));
     } else {
         next();

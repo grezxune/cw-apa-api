@@ -22,15 +22,11 @@ app.post('/player', async (req, res) => {
         friendInterested: req.body.friendInterested
     });
 
-    console.log('player\n', player);
-
     try {
         const newDoc = await player.save();
         res.send(newDoc);
     } catch (err) {
-        console.log('ERROR! ', err);
-        console.log(err.message);
-        res.status(400).send(err.message);
+        res.status(400).send({errors: err.message.split(',')});
     }
 });
 
