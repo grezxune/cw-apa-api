@@ -5444,3 +5444,45 @@ eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjU
 Dec 20th 2017 02:52: GET - /users/me
 ******** Auth Cookie ********
 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzODAyOTA4fQ.LsGiFIjOfk9njr8W0xGIAd03AaDboK-CbWhE-9xARnk
+Dec 20th 2017 02:55: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzODAyOTA4fQ.LsGiFIjOfk9njr8W0xGIAd03AaDboK-CbWhE-9xARnk
+Dec 20th 2017 02:55: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzODAyOTA4fQ.LsGiFIjOfk9njr8W0xGIAd03AaDboK-CbWhE-9xARnk
+Dec 20th 2017 02:56: OPTIONS - /users
+******** Auth Cookie ********
+undefined
+Dec 20th 2017 02:56: POST - /users
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzODAyOTA4fQ.LsGiFIjOfk9njr8W0xGIAd03AaDboK-CbWhE-9xARnk
+Dec 20th 2017 02:56: POST - /logout
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzODAyOTA4fQ.LsGiFIjOfk9njr8W0xGIAd03AaDboK-CbWhE-9xARnk
+Dec 20th 2017 02:56: OPTIONS - /login
+******** Auth Cookie ********
+undefined
+Dec 20th 2017 02:56: POST - /login
+******** Auth Cookie ********
+undefined
+Dec 20th 2017 02:58: POST - /login
+******** Auth Cookie ********
+undefined
+Dec 20th 2017 02:58: GET - /players
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzODAzNTA0fQ.mmCuX5l0kwJSwbwD7KmRitQCki47VHlAAffDgifd09w
+Dec 20th 2017 03:14: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzODAzNTA0fQ.mmCuX5l0kwJSwbwD7KmRitQCki47VHlAAffDgifd09w
+Dec 20th 2017 03:14: GET - /players
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzODAzNTA0fQ.mmCuX5l0kwJSwbwD7KmRitQCki47VHlAAffDgifd09w
+Dec 20th 2017 03:14: GET - /event-items
+******** Auth Cookie ********
+undefined
+Dec 20th 2017 03:16: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzODAzNTA0fQ.mmCuX5l0kwJSwbwD7KmRitQCki47VHlAAffDgifd09w
+Dec 20th 2017 03:53: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzODAzNTA0fQ.mmCuX5l0kwJSwbwD7KmRitQCki47VHlAAffDgifd09w
