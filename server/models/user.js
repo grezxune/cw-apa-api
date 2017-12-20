@@ -60,6 +60,7 @@ UserSchema.methods.generateAuthToken = async function() {
 
     user.tokens.push({ access, token });
 
+    console.log('Saving in generate auth token...Token: ', token);
     await user.save();
     return token;
 };
@@ -124,6 +125,26 @@ UserSchema.statics.loginUser = async (email, password) => {
 
 
 /// *** HOOKS *** ///
+UserSchema.pre('validate', async function(next) {
+    let errorMessages = [];
+
+    let duplicates = 0;
+
+    if (this.isModified('email')) {
+        duplicates = await User.where('email', this.email).count();
+    }
+
+    if (duplicates > 0) {
+        errorMessages.push(`A user with the email ${this.email} already exists`);
+    }
+
+    if (errorMessages.length > 0) {
+        next(new Error(errorMessages));
+    } else {
+        next();
+    }
+});
+
 UserSchema.pre('save', async function(next) {
     const user = this;
 

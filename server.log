@@ -4580,3 +4580,867 @@ undefined
 Dec 14th 2017 03:33: POST - /player
 ******** Auth Cookie ********
 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:04: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:05: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:08: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:09: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:09: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:10: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:10: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:11: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:11: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:12: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:12: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:14: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:15: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:15: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:16: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:17: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:20: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:21: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:22: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:25: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:35: GET - /players
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:35: GET - /player/5a32dbaa62fc0fb0d4a0c22e
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:35: OPTIONS - /player/5a32dbaa62fc0fb0d4a0c22e
+******** Auth Cookie ********
+undefined
+Dec 14th 2017 06:35: PATCH - /player/5a32dbaa62fc0fb0d4a0c22e
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:36: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:36: GET - /player/5a32dbaa62fc0fb0d4a0c22e
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:37: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:37: GET - /players
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:37: GET - /player/5a32dbaa62fc0fb0d4a0c22e
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:37: OPTIONS - /player/5a32dbaa62fc0fb0d4a0c22e
+******** Auth Cookie ********
+undefined
+Dec 14th 2017 06:37: PATCH - /player/5a32dbaa62fc0fb0d4a0c22e
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:38: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:38: GET - /player/5a32dbaa62fc0fb0d4a0c22e
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:38: GET - /players
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:38: GET - /player/5a32dbaa62fc0fb0d4a0c22e
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:38: OPTIONS - /player/5a32dbaa62fc0fb0d4a0c22e
+******** Auth Cookie ********
+undefined
+Dec 14th 2017 06:38: PATCH - /player/5a32dbaa62fc0fb0d4a0c22e
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:41: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:41: GET - /player/5a32dbaa62fc0fb0d4a0c22e
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:41: GET - /players
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:41: GET - /player/5a32dbaa62fc0fb0d4a0c22e
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:41: OPTIONS - /player/5a32dbaa62fc0fb0d4a0c22e
+******** Auth Cookie ********
+undefined
+Dec 14th 2017 06:41: PATCH - /player/5a32dbaa62fc0fb0d4a0c22e
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:42: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:42: GET - /player/5a32dbaa62fc0fb0d4a0c22e
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:42: GET - /players
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:42: GET - /player/5a32dbaa62fc0fb0d4a0c22e
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:42: OPTIONS - /player/5a32dbaa62fc0fb0d4a0c22e
+******** Auth Cookie ********
+undefined
+Dec 14th 2017 06:42: PATCH - /player/5a32dbaa62fc0fb0d4a0c22e
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:42: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:42: GET - /player/5a32dbaa62fc0fb0d4a0c22e
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:42: GET - /players
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:42: GET - /player/5a32dbaa62fc0fb0d4a0c22e
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:42: OPTIONS - /player/5a32dbaa62fc0fb0d4a0c22e
+******** Auth Cookie ********
+undefined
+Dec 14th 2017 06:42: PATCH - /player/5a32dbaa62fc0fb0d4a0c22e
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:42: GET - /players
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:42: GET - /player/5a32dbaa62fc0fb0d4a0c22e
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:42: OPTIONS - /player/5a32dbaa62fc0fb0d4a0c22e
+******** Auth Cookie ********
+undefined
+Dec 14th 2017 06:42: PATCH - /player/5a32dbaa62fc0fb0d4a0c22e
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:42: GET - /players
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:42: GET - /player/5a32dbaa62fc0fb0d4a0c22e
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:42: OPTIONS - /player/5a32dbaa62fc0fb0d4a0c22e
+******** Auth Cookie ********
+undefined
+Dec 14th 2017 06:42: PATCH - /player/5a32dbaa62fc0fb0d4a0c22e
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:43: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:43: GET - /player/5a32dbaa62fc0fb0d4a0c22e
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:43: GET - /players
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:43: GET - /player/5a32dbaa62fc0fb0d4a0c22e
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:43: OPTIONS - /player/5a32dbaa62fc0fb0d4a0c22e
+******** Auth Cookie ********
+undefined
+Dec 14th 2017 06:43: PATCH - /player/5a32dbaa62fc0fb0d4a0c22e
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:43: OPTIONS - /player/5a32dbaa62fc0fb0d4a0c22e
+******** Auth Cookie ********
+undefined
+Dec 14th 2017 06:43: PATCH - /player/5a32dbaa62fc0fb0d4a0c22e
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:43: GET - /players
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:44: GET - /player/5a32dbaa62fc0fb0d4a0c22e
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:44: OPTIONS - /player/5a32dbaa62fc0fb0d4a0c22e
+******** Auth Cookie ********
+undefined
+Dec 14th 2017 06:44: DELETE - /player/5a32dbaa62fc0fb0d4a0c22e
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:44: GET - /players
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:44: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:44: GET - /players
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:46: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:46: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:46: GET - /players
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:46: GET - /player/5a32e51fff5030b4a2406c5b
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:46: OPTIONS - /player/5a32e51fff5030b4a2406c5b
+******** Auth Cookie ********
+undefined
+Dec 14th 2017 06:46: DELETE - /player/5a32e51fff5030b4a2406c5b
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:46: GET - /players
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:46: GET - /player/5a304650a6a0bb762a2408f4
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:47: OPTIONS - /player/5a304650a6a0bb762a2408f4
+******** Auth Cookie ********
+undefined
+Dec 14th 2017 06:47: PATCH - /player/5a304650a6a0bb762a2408f4
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:47: GET - /players
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:49: GET - /players
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:51: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:52: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:54: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:55: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:55: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:56: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:57: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:58: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:58: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:59: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 06:59: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 07:00: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 07:00: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 07:01: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 14th 2017 07:03: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 18th 2017 02:21: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 18th 2017 02:22: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 18th 2017 02:22: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 18th 2017 02:22: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 18th 2017 02:48: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 18th 2017 03:00: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 18th 2017 03:01: GET - /news-items
+******** Auth Cookie ********
+undefined
+Dec 18th 2017 03:01: GET - /event-items
+******** Auth Cookie ********
+undefined
+Dec 18th 2017 03:01: POST - /logout
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzMTkxNjM3fQ.LSjpW0Y8rD4Hom-6Bq2WffxcPPAnvMjoUGh61q2mDPI
+Dec 18th 2017 03:01: OPTIONS - /login
+******** Auth Cookie ********
+undefined
+Dec 18th 2017 03:01: POST - /login
+******** Auth Cookie ********
+undefined
+Dec 20th 2017 11:32: GET - /players
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:33: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:33: GET - /players
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:34: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:36: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:37: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:37: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:38: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:38: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:38: GET - /players
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:39: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:40: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:41: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:44: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:44: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:45: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:45: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:48: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:50: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:50: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:52: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:52: GET - /news-items
+******** Auth Cookie ********
+undefined
+Dec 20th 2017 11:52: GET - /event-items
+******** Auth Cookie ********
+undefined
+Dec 20th 2017 11:52: GET - /news-items
+******** Auth Cookie ********
+undefined
+Dec 20th 2017 11:52: GET - /players
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:53: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:53: GET - /players
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:53: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:53: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:53: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:53: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:54: GET - /players
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:55: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:55: GET - /players
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:55: GET - /players
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:56: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:56: GET - /players
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:56: GET - /players
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:56: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:56: GET - /players
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:56: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:56: GET - /players
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:57: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:57: GET - /players
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:57: GET - /players
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:57: GET - /player/5a304249a6a0bb762a2408ed
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:57: GET - /players
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:57: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:57: GET - /players
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:58: GET - /players
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:58: GET - /player/5a32e536ff5030b4a2406c5d
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:58: GET - /players
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:59: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:59: GET - /players
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 11:59: GET - /players
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 12:00: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 12:00: GET - /players
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 12:00: GET - /players
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 12:00: GET - /player/5a304249a6a0bb762a2408ed
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 12:00: GET - /players
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 12:00: GET - /news-items
+******** Auth Cookie ********
+undefined
+Dec 20th 2017 12:00: GET - /event-items
+******** Auth Cookie ********
+undefined
+Dec 20th 2017 12:10: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 12:10: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 12:11: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 12:12: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 12:13: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 12:13: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 12:13: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 12:15: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 12:15: GET - /players
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 12:15: GET - /player/5a304249a6a0bb762a2408ed
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 12:16: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 12:23: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 12:28: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 12:28: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 12:30: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 12:31: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 12:31: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 12:34: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 12:35: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 12:37: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 12:39: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 01:34: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 01:34: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 01:35: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 01:37: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 01:45: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 01:45: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 01:45: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 01:46: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 01:47: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 01:56: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 01:57: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 01:57: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 01:59: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 02:01: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 02:02: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 02:08: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 02:10: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 02:11: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 02:11: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 02:12: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 02:13: OPTIONS - /users/add
+******** Auth Cookie ********
+undefined
+Dec 20th 2017 02:14: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 02:14: OPTIONS - /users
+******** Auth Cookie ********
+undefined
+Dec 20th 2017 02:14: POST - /users
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 02:21: OPTIONS - /users
+******** Auth Cookie ********
+undefined
+Dec 20th 2017 02:21: POST - /users
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 02:22: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 02:22: OPTIONS - /users
+******** Auth Cookie ********
+undefined
+Dec 20th 2017 02:22: POST - /users
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 02:23: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 02:23: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 02:23: OPTIONS - /users
+******** Auth Cookie ********
+undefined
+Dec 20th 2017 02:23: POST - /users
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 02:24: OPTIONS - /users
+******** Auth Cookie ********
+undefined
+Dec 20th 2017 02:24: POST - /users
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 02:24: OPTIONS - /users
+******** Auth Cookie ********
+undefined
+Dec 20th 2017 02:24: POST - /users
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 02:27: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 02:27: OPTIONS - /users
+******** Auth Cookie ********
+undefined
+Dec 20th 2017 02:27: POST - /users
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 02:27: OPTIONS - /users
+******** Auth Cookie ********
+undefined
+Dec 20th 2017 02:27: POST - /users
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 02:27: OPTIONS - /users
+******** Auth Cookie ********
+undefined
+Dec 20th 2017 02:27: POST - /users
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 02:28: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 02:28: OPTIONS - /users
+******** Auth Cookie ********
+undefined
+Dec 20th 2017 02:28: POST - /users
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 02:29: OPTIONS - /users
+******** Auth Cookie ********
+undefined
+Dec 20th 2017 02:29: POST - /users
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 02:29: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 02:30: OPTIONS - /users
+******** Auth Cookie ********
+undefined
+Dec 20th 2017 02:30: POST - /users
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 02:31: OPTIONS - /users
+******** Auth Cookie ********
+undefined
+Dec 20th 2017 02:31: POST - /users
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 02:36: OPTIONS - /users
+******** Auth Cookie ********
+undefined
+Dec 20th 2017 02:36: POST - /users
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 02:40: OPTIONS - /users
+******** Auth Cookie ********
+undefined
+Dec 20th 2017 02:40: POST - /users
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 02:40: OPTIONS - /users
+******** Auth Cookie ********
+undefined
+Dec 20th 2017 02:40: POST - /users
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 02:40: OPTIONS - /users
+******** Auth Cookie ********
+undefined
+Dec 20th 2017 02:40: POST - /users
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 02:41: OPTIONS - /users
+******** Auth Cookie ********
+undefined
+Dec 20th 2017 02:41: POST - /users
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 02:42: OPTIONS - /users
+******** Auth Cookie ********
+undefined
+Dec 20th 2017 02:42: POST - /users
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzNjMwODc2fQ.hItxuAaVWemItAZqOffr92IQNcZjKcnGqWZ9KowAlh4
+Dec 20th 2017 02:42: OPTIONS - /users
+******** Auth Cookie ********
+undefined
+Dec 20th 2017 02:42: POST - /users
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTNhY2IxYThiZDM5OWQ3MTQ3OTMyYTkiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzODAyNTIyfQ.gnu9yXfZWkHrbvgAWQSIT9SqURZv6vp1jQxRNjs2YAQ
+Dec 20th 2017 02:42: OPTIONS - /users
+******** Auth Cookie ********
+undefined
+Dec 20th 2017 02:42: POST - /users
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTNhY2IxYThiZDM5OWQ3MTQ3OTMyYTkiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzODAyNTIyfQ.gnu9yXfZWkHrbvgAWQSIT9SqURZv6vp1jQxRNjs2YAQ
+Dec 20th 2017 02:42: POST - /logout
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTNhY2IyNThiZDM5OWQ3MTQ3OTMyYWMiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzODAyNTMzfQ.KO6o43_Q2SFfvh_2L3wIzWoZYHd7d-QY30UhWPpcPDA
+Dec 20th 2017 02:43: OPTIONS - /login
+******** Auth Cookie ********
+undefined
+Dec 20th 2017 02:43: POST - /login
+******** Auth Cookie ********
+undefined
+Dec 20th 2017 02:43: POST - /logout
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTNhY2IyNThiZDM5OWQ3MTQ3OTMyYWMiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzODAyNTgzfQ.i-gL5xrB6u9UVTniO00N5BxcsZ5g-11n-C47b---7Kk
+Dec 20th 2017 02:45: OPTIONS - /login
+******** Auth Cookie ********
+undefined
+Dec 20th 2017 02:45: POST - /login
+******** Auth Cookie ********
+undefined
+Dec 20th 2017 02:46: OPTIONS - /users
+******** Auth Cookie ********
+undefined
+Dec 20th 2017 02:46: POST - /users
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTNhYzhhZWIwMmNhMGQ2MGJjZTMxZWMiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzODAyNzExfQ.uEzJ1TnfgRmXvZZzJc_hBJwJ9DWVY78sIBSb9i1r9F8
+Dec 20th 2017 02:46: OPTIONS - /users
+******** Auth Cookie ********
+undefined
+Dec 20th 2017 02:46: POST - /users
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTNhYzhhZWIwMmNhMGQ2MGJjZTMxZWMiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzODAyNzExfQ.uEzJ1TnfgRmXvZZzJc_hBJwJ9DWVY78sIBSb9i1r9F8
+Dec 20th 2017 02:46: POST - /logout
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTNhYzhhZWIwMmNhMGQ2MGJjZTMxZWMiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzODAyNzExfQ.uEzJ1TnfgRmXvZZzJc_hBJwJ9DWVY78sIBSb9i1r9F8
+Dec 20th 2017 02:46: OPTIONS - /login
+******** Auth Cookie ********
+undefined
+Dec 20th 2017 02:46: POST - /login
+******** Auth Cookie ********
+undefined
+Dec 20th 2017 02:46: POST - /logout
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTNhY2MyN2YyY2I5ZmQ3NzNlMDk1ZmQiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzODAyODE0fQ.oCbnIjZ0grDSekToYBjqw1qOabhOXuhEFHqW24NOiqg
+Dec 20th 2017 02:48: OPTIONS - /login
+******** Auth Cookie ********
+undefined
+Dec 20th 2017 02:48: POST - /login
+******** Auth Cookie ********
+undefined
+Dec 20th 2017 02:49: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzODAyOTA4fQ.LsGiFIjOfk9njr8W0xGIAd03AaDboK-CbWhE-9xARnk
+Dec 20th 2017 02:50: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzODAyOTA4fQ.LsGiFIjOfk9njr8W0xGIAd03AaDboK-CbWhE-9xARnk
+Dec 20th 2017 02:52: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzODAyOTA4fQ.LsGiFIjOfk9njr8W0xGIAd03AaDboK-CbWhE-9xARnk

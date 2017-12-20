@@ -55,7 +55,13 @@ app.patch('/player/:id', authenticate, requireValidID, async (req, res) => {
             res.send({ player: updatedDoc });
         }
     } catch (err) {
-        res.status(400).send(err.message);
+        let errors = { errors: [] };
+
+        if (err.code && err.code === 11000) {
+            errors.errors.push(`A player with the email ${body.contact.email} already exists`);
+        }
+
+        res.status(400).send(errors);
     }
 });
 

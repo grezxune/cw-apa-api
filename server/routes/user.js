@@ -10,23 +10,11 @@ app.post('/users', async (req, res) => {
     const body = _.pick(req.body, ['email', 'password']);
     const newUser = new User(body);
 
-    let savedUser;
-
     try {
-        savedUser = await newUser.save();
+        const savedUser = await newUser.save();
+        res.status(200).send();
     } catch (err) {
-        console.log('ERROR!\n', err);
-    }
-
-    if (!savedUser) {
-        res.status(400).send(`Failed to save new user ${email}`);
-    } else {
-        try {
-            const token = await savedUser.generateAuthToken();
-            res.cookie('auth', token, { httpOnly: true }).send({ savedUser });
-        } catch (err) {
-            console.log('Error creating token and setting header', err);
-        }
+        res.status(400).send({errors: err.message.split(',')});
     }
 });
 

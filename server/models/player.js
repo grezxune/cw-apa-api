@@ -190,13 +190,13 @@ playerSchema.pre('validate', async function(next) {
     }
 
     if (moment().diff(moment(this.personal.birthdate), 'years') < 12) {
-        errorMessages.push('You must be at least 12 years of age to sign up for the APA.');
+        errorMessages.push('You must be at least 12 years of age to sign up for the APA');
     }
 
     const duplicates = await Player.where('contact.email', this.contact.email).count();
 
     if (duplicates > 0) {
-        errorMessages.push(`A player with the email ${this.contact.email} already exists.`);
+        errorMessages.push(`A player with the email ${this.contact.email} already exists`);
     }
 
     if (errorMessages.length > 0) {
