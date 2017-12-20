@@ -25,5 +25,3 @@ if (env === 'development') {
     process.env.ALLOWED_ORIGIN = 'http://localhost:8080';
     readConfigFile();
 }
-
-console.log('Envs: ', process.env);

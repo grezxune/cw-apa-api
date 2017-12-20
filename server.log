@@ -5486,3 +5486,33 @@ eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjU
 Dec 20th 2017 03:53: GET - /users/me
 ******** Auth Cookie ********
 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzODAzNTA0fQ.mmCuX5l0kwJSwbwD7KmRitQCki47VHlAAffDgifd09w
+Dec 20th 2017 04:54: GET - /users/me
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzODAzNTA0fQ.mmCuX5l0kwJSwbwD7KmRitQCki47VHlAAffDgifd09w
+Dec 20th 2017 04:54: POST - /logout
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzODAzNTA0fQ.mmCuX5l0kwJSwbwD7KmRitQCki47VHlAAffDgifd09w
+Dec 20th 2017 04:54: OPTIONS - /login
+******** Auth Cookie ********
+undefined
+Dec 20th 2017 04:54: POST - /login
+******** Auth Cookie ********
+undefined
+Dec 20th 2017 04:55: POST - /logout
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzODEwNDk3fQ.1zN-tkcVoNy2Y94XVxoK8BNT9LN7oZvA5VpOnzGnKN8
+Dec 20th 2017 04:55: OPTIONS - /login
+******** Auth Cookie ********
+undefined
+Dec 20th 2017 04:55: POST - /login
+******** Auth Cookie ********
+undefined
+Dec 20th 2017 04:55: OPTIONS - /login
+******** Auth Cookie ********
+undefined
+Dec 20th 2017 04:55: POST - /login
+******** Auth Cookie ********
+undefined
+Dec 20th 2017 05:02: POST - /logout
+******** Auth Cookie ********
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YTFmNDU0Y2VkYTM0ODBkNWQ3MjNhYjUiLCJhY2Nlc3MiOiJhdXRoIiwiaWF0IjoxNTEzODEwNTEwfQ.t3LP8EOaOLLuknWTAdOKRHCAVwlf28DKak-3mxIRsz4
