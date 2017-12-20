@@ -1,8 +1,8 @@
 const allowCrossOrigin = (req, res, next) => {
     const origin = req.headers.origin;
 
-    console.log('origin: ', origin);
-    if (origin.includes('cwapa.org')) {
+    console.log('Environment Variables:\n', process.env);
+    if (origin && origin.includes('cwapa.org')) {
         res.set('access-control-allow-origin', origin);
     } else {
         res.set('access-control-allow-origin', process.env.ALLOWED_ORIGIN);
