@@ -42,7 +42,7 @@ app.use(bodyParser.urlencoded({
 }));
 
 // Parse body and put it into req.body
-app.use(bodyParser.json({limit: '50mb'}));
+app.use(bodyParser.json({limit: '200mb'}));
 
 // app.use((req, res, next) => {
 //     console.log(res.getHeaders());
