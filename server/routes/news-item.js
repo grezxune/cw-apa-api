@@ -14,17 +14,27 @@ app.get('/news-items', (req, res) => {
 
 app.post('/news-item', authenticate, (req, res) => {
     var newsItem = new NewsItem({
-        title: req.body.title,
-        date: req.body.date,
-        excerpt: req.body.excerpt,
-        content: req.body.content,
-        imageURLs: req.body.imageURLs
+        date: req.body.newsItem.date,
+        title: req.body.newsItem.title,
+        excerpt: req.body.newsItem.excerpt,
+        content: req.body.newsItem.content,
+        images: req.body.newsItem.images
+    });
+
+    newsItem.images = newsItem.images.map((image) => {
+        return {
+            imageBase64: image.imageBase64,
+            lastModified: image.lastModified,
+            name: image.name,
+            size: image.size,
+            type: image.type
+        };
     });
 
     newsItem.save().then((doc) => {
         res.send(doc);
     }, (err) => {
-        res.status(400).send(err);
+        res.status(400).send({errors: [err]});
     });
 });
 
@@ -41,7 +51,7 @@ app.get('/news-item/:id', requireValidID, (req, res) => {
 });
 
 app.patch('/news-item/:id', authenticate, requireValidID, (req, res) => {
-    var body = _.pick(req.body, ['title', 'date', 'excerpt', 'content', 'imageURLs']);
+    var body = _.pick(req.body.newsItem, ['date', 'title', 'excerpt', 'content', 'images']);
 
     NewsItem.findByIdAndUpdate(req.params.id, {$set: body}, {new: true}).then((newsItem) => {
         if (!newsItem) {

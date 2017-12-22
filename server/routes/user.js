@@ -37,13 +37,10 @@ app.get('/logout', authenticate, (req, res) => {
 });
 
 app.post('/login', notAuthenticated, async (req, res) => {
-    console.log('posted login');
     const body = _.pick(req.body, ['email', 'password']);
 
-    console.log('Logging in user...\n', body);
     const loggedInUser = await User.loginUser(body.email, body.password);
 
-    console.log('Logged In user: \n', loggedInUser);
     if (loggedInUser) {
         res.cookie('auth', loggedInUser.token, { httpOnly: true }).send({ user: loggedInUser.user });
     } else {
