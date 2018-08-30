@@ -11,7 +11,7 @@ const ics = require('ics');
 const ical = require('ical-generator');
 const cal = ical({ domain: 'cw-apa-api' })
     .url('http://cw-apa-api.herokuapp.com/calendar.ics')
-    .ttl(10);
+    .ttl(60);
 
 /// *** Custom Variables *** ///
 const port = process.env.PORT;
