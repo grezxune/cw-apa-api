@@ -65,7 +65,7 @@ app.get('/', (req, res) => {
 app.get('/calendar.ics', (req, res) => {
     console.log('HIT CALENDAR ENDPOINT!');
     const event = cal.createEvent({
-        summary: 'My Event - MUAHAHA',
+        summary: 'My Event - GOTEM!!!',
         start: moment(),
         uid: 12345
     });
