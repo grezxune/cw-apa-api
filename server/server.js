@@ -65,9 +65,10 @@ app.get('/', (req, res) => {
 app.get('/calendar.ics', (req, res) => {
     console.log('HIT CALENDAR ENDPOINT!');
     const event = cal.createEvent({
-        summary: 'My Event - GOTEM!!!',
+        summary: 'My Event - SUCCESS WHOOP!',
         start: moment(),
-        uid: 12345
+        uid: 12345,
+        sequence: 1
     });
     const filename = `${__dirname}/calendarFiles/event.ics`;
     cal.save(filename, (err, val) => res.sendFile(filename));
