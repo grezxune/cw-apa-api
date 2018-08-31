@@ -9,7 +9,9 @@ const cookieParser = require('cookie-parser');
 const moment = require('moment');
 const ics = require('ics');
 const ical = require('ical-generator');
-const cal = ical({ domain: 'cw-apa-api' })
+const cal = ical({
+    domain: 'cw-apa-api'
+})
     .url('http://cw-apa-api.herokuapp.com/calendar.ics')
     .ttl(60);
 
@@ -60,6 +62,11 @@ app.get('/', (req, res) => {
     res.send(
         '<h1 style="text-align: center;">Hello, welcome to Central Wisconsin APA Admin! <a href="/calendar.ics">CALENDAR!</a></h1>'
     );
+});
+
+app.get('/calendarEvent.ics', (req, res) => {
+    const filename = `${__dirname}/calendarFiles/event.ics`;
+    res.sendFile(filename);
 });
 
 app.get('/calendar.ics', (req, res) => {
