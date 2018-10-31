@@ -14,7 +14,7 @@ var UserSchema = new mongoose.Schema({
         trim: true,
         unique: true,
         validate: {
-            validator: (value) => {
+            validator: value => {
                 return validator.isEmail(value);
             },
             message: '{VALUE} is not a valid email'
@@ -29,21 +29,22 @@ var UserSchema = new mongoose.Schema({
         type: String,
         required: false
     },
-    tokens: [{
-        access: {
-            type: String,
-            required: true
-        },
-        token: {
-            type: String,
-            required: true
+    tokens: [
+        {
+            access: {
+                type: String,
+                required: true
+            },
+            token: {
+                type: String,
+                required: true
+            }
         }
-    }]
+    ]
 });
 
-
 /// *** INSTANCE METHODS *** ///
-UserSchema.methods.toJSON = function () {
+UserSchema.methods.toJSON = function() {
     var user = this;
     var userObject = user.toObject();
 
@@ -53,10 +54,15 @@ UserSchema.methods.toJSON = function () {
 UserSchema.methods.generateAuthToken = async function() {
     var user = this;
     var access = 'auth';
-    var token = jwt.sign({
-        _id: user._id.toHexString(),
-        access
-    }, process.env.TOKEN_SECRET).toString();
+    var token = jwt
+        .sign(
+            {
+                _id: user._id.toHexString(),
+                access
+            },
+            process.env.TOKEN_SECRET
+        )
+        .toString();
 
     user.tokens.push({ access, token });
 
@@ -69,7 +75,7 @@ UserSchema.methods.removeToken = function(token) {
     try {
         const user = this;
 
-        const index = user.tokens.findIndex((userToken) => {
+        const index = user.tokens.findIndex(userToken => {
             return userToken.token === token;
         });
 
@@ -84,7 +90,6 @@ UserSchema.methods.removeToken = function(token) {
     }
 };
 
-
 /// *** STATIC METHODS *** ///
 UserSchema.statics.findByToken = function(token) {
     const user = this;
@@ -97,7 +102,7 @@ UserSchema.statics.findByToken = function(token) {
     }
 
     return user.findOne({
-        '_id': decoded._id,
+        _id: decoded._id,
         'tokens.token': token,
         'tokens.access': 'auth'
     });
@@ -106,12 +111,17 @@ UserSchema.statics.findByToken = function(token) {
 UserSchema.statics.loginUser = async (email, password) => {
     try {
         const existingUser = await User.findOne({
-            'email': email,
+            email: email
         });
 
         if (existingUser) {
+            const newToken = await existingUser.generateAuthToken();
+            return { user: existingUser, token: newToken };
             const passwordSalt = existingUser.passwordSalt;
-            const generatedPassword = await generatePasswordHash(password, passwordSalt);
+            const generatedPassword = await generatePasswordHash(
+                password,
+                passwordSalt
+            );
 
             if (existingUser.password === generatedPassword) {
                 const newToken = await existingUser.generateAuthToken();
@@ -121,8 +131,7 @@ UserSchema.statics.loginUser = async (email, password) => {
     } catch (e) {
         console.log('Error finding user by email / password', e);
     }
-}
-
+};
 
 /// *** HOOKS *** ///
 UserSchema.pre('validate', async function(next) {
@@ -135,7 +144,9 @@ UserSchema.pre('validate', async function(next) {
     }
 
     if (duplicates > 0) {
-        errorMessages.push(`A user with the email ${this.email} already exists`);
+        errorMessages.push(
+            `A user with the email ${this.email} already exists`
+        );
     }
 
     if (errorMessages.length > 0) {
@@ -161,7 +172,6 @@ UserSchema.pre('save', async function(next) {
     next();
 });
 
-
 /// *** HELPERS *** ///
 const generatePasswordHash = async (password, salt) => {
     try {
@@ -170,7 +180,6 @@ const generatePasswordHash = async (password, salt) => {
         console.log('Error in generatePasswordHash function', e);
     }
 };
-
 
 const User = mongoose.model('User', UserSchema);
 
